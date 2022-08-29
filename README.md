@@ -1,4 +1,4 @@
-# Better_Summaries
+# Better_Summary_Functions
 Better summary() functions for lm, glm, gee, and geese objects in R
 
 Description:<br />
